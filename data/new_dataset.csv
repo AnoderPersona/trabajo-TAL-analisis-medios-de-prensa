@@ -1,4 +1,4 @@
-,id_news,title,label
+index,id_news,title,label
 0,21868949,Provincial Osorno pierde el invicto tras caer 1-0 ante Rengo en emocionante partido,NEU
 1,21863164,Combustibles volverán a bajar este jueves y también la próxima semana,POS
 2,21862451,Osorno: Un 33% de avance registra construcción de nuevo gimnasio en Escuela Monseñor Francisco Valdés en Francke,NEU
@@ -49,7 +49,7 @@
 47,47153605,Presidenta de Comisión Pesca de la Cámara visita a trabajadores pesqueros en su sede sindical para dialogar sobre problemáticas y propuestas,NEU
 48,47163377,Escuela formativa desarrolla el Atletismo en Illapel,NEU
 49,47163380,Una mujer víctima de violencia intrafamiliar se podría demorar hasta 5 años en denunciar,NEU
-50,47163543,La Serena conmemora Día de la Visibilidad Trans,NUE
+50,47163543,La Serena conmemora Día de la Visibilidad Trans,NEU
 51,47163574,Condenan a 5 años y un día de presidio efectivo a autor de tráfico de drogas en Los Vilos,POS
 52,47174459,"En Llay Llay decomisan armas, municiones y droga",POS
 53,47174461,Suspenden clases de educación física en colegios de Quintero y Puchuncaví por falla en fundición Codelco Ventanas,NEU
