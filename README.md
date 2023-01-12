@@ -13,3 +13,4 @@ Usar sentiment analysis y análisis de tópicos para obtener indicadores que pro
 Los indicadores a obtener son:
 - Tasa de noticias negativas por comuna 
 - Tasa de noticias positivas por comuna
+- Tópicos por clase
